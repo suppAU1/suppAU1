@@ -1,1 +1,1 @@
-Control Bionics Support AU profile.
+CB | Support AU
